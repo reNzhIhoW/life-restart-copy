@@ -7,3 +7,9 @@
 3、去除开始前的天赋点 剩余校验。
 4、20连抽几率递减，从橙级开始
 5、添加腾讯会员等橙级天赋。
+
+
+# 运行 #
+
+直接在view/index.html  以在线服务器打开就行。可以布置到服务器，原项目地址：
+https://github.com/VickScarlet/lifeRestart
